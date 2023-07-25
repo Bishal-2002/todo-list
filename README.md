@@ -1,2 +1,2 @@
 # todo-list
-The site is live at - https://todo-list-amber-tau-57.vercel.app/)https://todo-list-amber-tau-57.vercel.app/
+The site is live at - https://todo-list-amber-tau-57.vercel.app/
