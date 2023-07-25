@@ -1,2 +1,2 @@
 # todo-list
-The site is live at - https://bishal-2002.github.io/todo-list/
+The site is live at - https://todo-list-amber-tau-57.vercel.app/)https://todo-list-amber-tau-57.vercel.app/
